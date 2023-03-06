@@ -1,0 +1,16 @@
+#games{
+ margin-left: 750px;
+ justify-content: space-evenly;
+}
+#best{
+    margin-left: 120px;
+    color: blue;
+    border: 5px;
+    border-radius: 1px;
+}
+#old{
+    margin-left: 120px;
+    color: blue;
+    border: 5px;
+    border-radius: 1px;
+}

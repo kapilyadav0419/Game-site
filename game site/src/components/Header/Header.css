@@ -1,0 +1,9 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+.log{
+    text-decoration: solid black;
+    
+}
